@@ -11,13 +11,4 @@
      这个也是
      还是
 ### 这是一段代码
-    #include<stdio.h>
-    void main()
-    {
-      int a;
-      int b;
-      int c;
-      c=a+b;
-      return 0;
-      
-    }
+a  b  c  d  print("asdoiaf")  {  
