@@ -1,0 +1,8 @@
+﻿  词法分析1.cpp
+c:\users\cd\documents\visual studio 2015\projects\词法分析1\词法分析1\词法分析1.cpp(299): warning C4101: “strTemp”: 未引用的局部变量
+c:\users\cd\documents\visual studio 2015\projects\词法分析1\词法分析1\词法分析1.cpp(296): warning C4101: “i”: 未引用的局部变量
+c:\users\cd\documents\visual studio 2015\projects\词法分析1\词法分析1\词法分析1.cpp(394): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\cd\documents\visual studio 2015\projects\词法分析1\词法分析1\词法分析1.cpp(413): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  词法分析1.vcxproj -> C:\Users\cd\documents\visual studio 2015\Projects\词法分析1\Debug\词法分析1.exe

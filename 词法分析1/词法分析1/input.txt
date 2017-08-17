@@ -1,0 +1,14 @@
+void *
+ main*
+ a*
+ int
+{
+ int number1=100;
+ float number2=13.25;
+ char number3=number1++;
+ if(number1==number2)
+	{
+		exit(0);
+	}
+	return 0;
+}
